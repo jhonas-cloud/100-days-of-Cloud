@@ -29,3 +29,5 @@ Rules are usually based on:
 - Protecting servers from public internet access
 - Allowing database access only from app servers
 - Limiting admin access to specific IPs
+
+**Day 2 Complete!**

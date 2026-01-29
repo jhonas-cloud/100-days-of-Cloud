@@ -17,3 +17,4 @@ The goal is to build strong, real-world AWS cloud skills through consistent prac
 ## 📝 Day Tasks
 - Day 1 - Creating a key pair
 - Day 2 - Creating a security group
+- Day 3 - Creating a subnet
