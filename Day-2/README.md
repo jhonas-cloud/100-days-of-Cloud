@@ -3,6 +3,9 @@
 ## Create Security Group
 
 ### Overview
+
+![Screenshot](Screenshots/Screenshot4.png)
+
 A security group is basically a virtual firewall. It controls who’s allowed in and out of a resource (like a server or database) on a network.
 
 ## In simple terms

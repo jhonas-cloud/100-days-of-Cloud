@@ -3,6 +3,7 @@
 ## Creating a Subnet
 
 # Overview
+![Screenshot](Screenshots/Screenshot4.png)
 An AWS subnet is a range of IP addresses (defined by a CIDR block) inside a VPC that lets you organize and control your network resources.
 
 ### Key characteristics of a subnet <br>
