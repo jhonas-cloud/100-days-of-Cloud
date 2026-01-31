@@ -19,3 +19,4 @@ The goal is to build strong, real-world AWS cloud skills through consistent prac
 - Day 2 - Creating a security group
 - Day 3 - Creating a subnet
 - Day 4 - Enable Versioning for S3 Bucket
+- Day 5 - Create a gp3 Volume
