@@ -22,3 +22,4 @@ The goal is to build strong, real-world AWS cloud skills through consistent prac
 - Day 5 - Create a gp3 Volume
 - Day 6 - Launching a Elastic Compute Cloud (EC2)
 - Day 7 - Change EC2 Instance Type
+- Day 8 - Enable Stop Protection for EC2 Instance
