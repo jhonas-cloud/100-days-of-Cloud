@@ -1,5 +1,5 @@
 # Day 9 - Enable termination Protection
-![Screenshot](Screenshots/Screenshot7.png)
+![Screenshot](Screenshots/Screenshot6.png)
 # Overview
 
 **Termination protection** is a safety feature in AWS that helps **prevent accidental deletion of critical resources**, especially compute and infrastructure components. When enabled, AWS blocks termination actions unless the protection is explicitly turned off first.
