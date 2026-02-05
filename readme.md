@@ -24,3 +24,4 @@ The goal is to build strong, real-world AWS cloud skills through consistent prac
 - Day 7 - Change EC2 Instance Type
 - Day 8 - Enable Stop Protection for EC2 Instance
 - Day 9 - Enable Termination Protection for EC2 Instance
+- Day 10 - Attach Elastic IP to EC2 Instance
