@@ -27,3 +27,4 @@ The goal is to build strong, real-world AWS cloud skills through consistent prac
 - Day 10 - Attach Elastic IP to EC2 Instance
 - Day 11 - Attach Elastic Network Interface to EC2 Instance
 - Day 12 - Attach Volume to EC2 Instance
+- Day 13 - Create AMI from EC2 Instance
