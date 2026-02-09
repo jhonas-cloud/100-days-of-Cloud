@@ -26,3 +26,5 @@ When you launch an EC2 instance, you choose an AMI, and AWS uses it to create th
 - Marketplace AMIs – third-party (often paid)
 - Community AMIs – shared by other users
 - Custom AMIs – ones you create from your own instances
+
+**Day 13 Complete!**
