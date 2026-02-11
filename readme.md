@@ -30,3 +30,4 @@ The goal is to build strong, real-world AWS cloud skills through consistent prac
 - Day 13 - Create AMI from EC2 Instance
 - Day 14 - Terminate EC2 Instance
 - Day 15 - Create Volume Snapshot
+- Day 16 - Create IAM User
