@@ -37,3 +37,5 @@ When you add a user to the Developers group, they automatically get the same per
 - Consistent access control
 - Follows least privilege principle
 - Scales well as your organization grows
+
+**Day 17 Complete!**

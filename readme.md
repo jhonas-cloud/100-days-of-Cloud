@@ -32,3 +32,4 @@ The goal is to build strong, real-world AWS cloud skills through consistent prac
 - Day 15 - Create Volume Snapshot
 - Day 16 - Create IAM User
 - Day 17 - Create IAM Group
+- Day 18 - Create Read-Only IAM Policy for EC2 Console Access
