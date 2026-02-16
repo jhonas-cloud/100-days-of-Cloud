@@ -31,3 +31,4 @@ The goal is to build strong, real-world AWS cloud skills through consistent prac
 - Day 14 - Terminate EC2 Instance
 - Day 15 - Create Volume Snapshot
 - Day 16 - Create IAM User
+- Day 17 - Create IAM Group
