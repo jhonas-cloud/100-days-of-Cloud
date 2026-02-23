@@ -37,3 +37,4 @@ The goal is to build strong, real-world AWS cloud skills through consistent prac
 - Day 20 - Create IAM Role for EC2 with Policy Attachment
 - Day 21 - Setting Up an EC2 Instance with an Elastic IP for Application Hosting
 - Day 22 - Configuring Secure SSH Access to an EC2 Instance 
+- Day 23 - Data Migration Between S3 Buckets Using AWS CLI
