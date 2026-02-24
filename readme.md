@@ -38,3 +38,4 @@ The goal is to build strong, real-world AWS cloud skills through consistent prac
 - Day 21 - Setting Up an EC2 Instance with an Elastic IP for Application Hosting
 - Day 22 - Configuring Secure SSH Access to an EC2 Instance 
 - Day 23 - Data Migration Between S3 Buckets Using AWS CLI
+- Day 24 - Setting up an Application Load Balancer for an EC2 Instance
